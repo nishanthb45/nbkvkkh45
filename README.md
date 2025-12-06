@@ -1,4 +1,7 @@
 ## Hi there 👋
+####  I am Python developer
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/11b4c655-9408-44ee-9377-f9ecf9166ead" />
 
 <!--
 **nbkvkkh45/nbkvkkh45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
